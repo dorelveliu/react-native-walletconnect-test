@@ -29,12 +29,12 @@
     "leasot": "^11.3.0",
     "prettier": "^2.1.2"
   },
-  "name": "react-native-walletconnect",
+  "name": "react-native-walletconnect-test",
   "version": "0.0.1-alpha.2",
   "description": "⚛️ 👛 WalletConnect for React Native! Zero linking, full awesome. (Android/iOS/Web/Expo)",
   "main": "dist",
-  "repository": "https://github.com/cawfree/react-native-walletconnect",
-  "author": "Alex Thomas (@cawfree) <alex@getuni.app>",
+  "repository": "https://github.com/dorelveliu/react-native-walletconnect-test",
+  "author": "Dorel V",
   "license": "MIT",
   "private": false
 }

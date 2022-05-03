@@ -14,7 +14,7 @@ Compatible with [**Android**](https://engineering.fb.com/developer-tools/react-n
 Using [**Yarn**](https://yarnpkg.com):
 
 ```bash
-yarn add react-native-webview react-native-walletconnect
+yarn add react-native-webview react-native-walletconnect-test
 ```
 
 ## ✍️ Usage
@@ -25,7 +25,7 @@ First you need to wrap the graphical root of your application with the [`<Wallet
 import React from "react";
 import { SafeAreaView, Button } from "react-native";
 
-import WalletConnectProvider, { useWalletConnect } from "react-native-walletconnect";
+import WalletConnectProvider, { useWalletConnect } from "react-native-walletconnect-test";
 
 const WalletConnectExample = () => {
   const {

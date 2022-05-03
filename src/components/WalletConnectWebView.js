@@ -154,7 +154,7 @@ function WalletConnectWebView({
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>WalletConnect</title>
 </head>
-<!-- react-native-walletconnect (${key})-->
+<!-- react-native-walletconnect-test (${key})-->
 <body style="margin:0;padding:0;">
   <script src="https://cdn.jsdelivr.net/npm/@walletconnect/browser@1.0.0/dist/umd/index.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/@walletconnect/qrcode-modal@1.2.2/dist/umd/index.min.js"></script>
