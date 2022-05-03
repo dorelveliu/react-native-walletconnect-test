@@ -1,7 +1,7 @@
 import React, { useRef, useEffect, useState, useCallback } from "react";
 import PropTypes from "prop-types";
 import { View } from "react-native";
-import { WebView } from "react-native-webview";
+import { WebView } from "react-native-webview-modal";
 import { nanoid } from "nanoid/non-secure";
 
 function WalletConnectWebView({
